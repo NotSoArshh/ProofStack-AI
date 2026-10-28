@@ -1,0 +1,6 @@
+{
+  "name": "ProofStack AI",
+  "description": "Production-quality AI research and evidence intelligence platform with claim-level evidence traceability, contradiction analysis, and transparent uncertainty reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
